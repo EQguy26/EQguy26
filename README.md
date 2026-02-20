@@ -54,7 +54,7 @@ Building scalable internal tools that:
 
 Software should remove operational friction, not create it.
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
+## 🇺🇸 My GitHub Stats
+![My user statistics](images/userstats.svg)
 
 
