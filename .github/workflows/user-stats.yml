@@ -1,0 +1,29 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats SVG (USA theme)
+      - uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats.svg
+          custom-title: "Brad Couch • GitHub Ops Stats"
+          animated-language-chart: true
+          max-languages: 12
+          top-icon: github
+          border-radius: 14
+          # Custom colors: background, border, icon, title, text
+          colors: "#FFFFFF #002868 #BF0A30 #002868 #111111"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
