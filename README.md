@@ -1,7 +1,5 @@
 # Brad Couch
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Logistics+System+Builder;CRM+Architect;Operational+Automation)
-
 ## 🚀 Building Systems for Real-World Operations
 
 I design and develop tools that solve logistical and management challenges in equipment rental, sales, and operations.
