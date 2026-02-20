@@ -1,5 +1,7 @@
 # Brad Couch
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Logistics+System+Builder;CRM+Architect;Operational+Automation)
+
 ## 🚀 Building Systems for Real-World Operations
 
 I design and develop tools that solve logistical and management challenges in equipment rental, sales, and operations.
@@ -14,6 +16,16 @@ I design and develop tools that solve logistical and management challenges in eq
 - Operational Dashboards
 - Process Automation
 - Data Intelligence for Sales Teams
+
+- ## 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+## 🛠 Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 ---
 
@@ -41,3 +53,8 @@ Building scalable internal tools that:
 ## 📊 Philosophy
 
 Software should remove operational friction, not create it.
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
+
+
