@@ -11,11 +11,11 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Generate stats SVG (USA theme)
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats SVG
         uses: cicirello/user-statistician@v1
         with:
           image-file: images/userstats.svg
