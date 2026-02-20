@@ -17,8 +17,6 @@ I design and develop tools that solve logistical and management challenges in eq
 - Process Automation
 - Data Intelligence for Sales Teams
 
-- ## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
 
 ## 🛠 Tech Stack
 
