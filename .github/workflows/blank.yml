@@ -1,0 +1,29 @@
+name: Update profile stats
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirm YAML is running
+        run: echo "Workflow is valid"
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats SVG
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats.svg
+          custom-title: "GitHub Ops Stats"
+          animated-language-chart: true
+          max-languages: 12
+          border-radius: 14
+          colors: "#FFFFFF #002868 #BF0A30 #002868 #111111"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
