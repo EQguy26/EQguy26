@@ -57,4 +57,3 @@ Software should remove operational friction, not create it.
 ## 🇺🇸 My GitHub Stats
 ![My user statistics](images/userstats.svg)
 
-
