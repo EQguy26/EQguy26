@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002868,50:FFFFFF,100:BF0A30&height=170&section=header&text=Brad%20Couch&fontSize=40&fontColor=111111&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002868,50:FFFFFF,100:BF0A30&height=170&section=header&text=American%20Equipment%20Group&fontSize=38&fontColor=111111&animation=fadeIn" />
 
 # Brad Couch
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Logistics+System+Builder;CRM+Architect;Operational+Automation)
