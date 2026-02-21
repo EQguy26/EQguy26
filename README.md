@@ -32,17 +32,6 @@ Building scalable internal tools that:
 - Improve rental asset visibility
 - Turn dealership data into actionable insights
 
----
-
-## 🛠 Tech Stack
-
-- Next.js
-- Supabase
-- PostgreSQL
-- TypeScript
-- Vercel
-- SQL
-- Workflow Design
 
 ---
 
