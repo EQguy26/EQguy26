@@ -42,7 +42,6 @@ Building scalable internal tools that:
 
 Software should remove operational friction, not create it.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=ffffff&color=002868&line=BF0A30&point=002868&hide_border=true)
 
 ## 🇺🇸 My GitHub Stats
 ![My user statistics](images/userstats.svg)
